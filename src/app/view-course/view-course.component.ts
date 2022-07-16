@@ -11,5 +11,5 @@ export class ViewCourseComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+   data:any=[]
 }
